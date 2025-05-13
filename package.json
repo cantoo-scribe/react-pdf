@@ -28,6 +28,13 @@
     "name": "Wojciech Maj",
     "email": "kontakt@wojtekmaj.pl"
   },
+  "contributors": [
+    {
+      "email": "dev@cantoo.fr",
+      "name": "Cantoo",
+      "url": "https://cantoo.fr"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.0.0",
