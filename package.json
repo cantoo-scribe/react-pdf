@@ -1,6 +1,6 @@
 {
   "name": "@cantoo/react-pdf",
-  "version": "6.2.2",
+  "version": "6.2.3",
   "description": "Display PDFs in your React app as easily as if they were images.",
   "main": "dist/cjs/entry.js",
   "module": "dist/esm/entry.js",
